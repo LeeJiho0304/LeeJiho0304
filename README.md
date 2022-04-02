@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=C2F2FD&height=150&section=header&text=JihoLee&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=C2F2FD&height=150&section=header&text=LeeJiho&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷</p>
 
